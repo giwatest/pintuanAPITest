@@ -1,3 +1,0 @@
-
-HOST_SERVER = "http://127.0.0.1:5000"
-TEST_OPENID = "o1Ri45Q65bmOG2tLcpis--emdWmc"
