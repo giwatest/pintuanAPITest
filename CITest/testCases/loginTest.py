@@ -3,8 +3,8 @@ import unittest
 #import HTMLTestRunner
 import sys
 sys.path.append("..")
-#print('\n The python path', sys.path)
-import testUtils.apiUtils as apiUtils
+print('\n The python path', sys.path)
+from testUtils import apiUtils as apiUtils
 import globalVar
 
 
